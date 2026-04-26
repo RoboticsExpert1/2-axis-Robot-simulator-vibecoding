@@ -3,7 +3,7 @@
 This project is an advanced 2-axis robot arm kinematics simulator developed through a collaboration between a mechanical engineer and **Google Gemini**. It expands upon the 1-axis model to demonstrate complex planar movements and inverse kinematics.
 
 ## 📺 Project Walkthrough
-[![2-Axis Robot Simulator](https://i.ytimg.com/vi/https://youtu.be/HLWH0zgsJYQ?si=DFIe5YItsHDjb7jl/maxresdefault.jpg)](https://youtu.be/YOUR_VIDEO_ID)
+[![2-Axis Robot Simulator](https://i.ytimg.com/vi/HLWH0zgsJYQ/maxresdefault.jpg)](https://youtu.be/YOUR_VIDEO_ID)
 > **Click the image above to watch the "Vibe Coding" process for this 2-axis system.**
 
 ## 🛠 Features
